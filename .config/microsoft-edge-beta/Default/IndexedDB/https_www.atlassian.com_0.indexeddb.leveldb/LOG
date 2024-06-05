@@ -1,3 +1,7 @@
 2024/06/05-01:37:57.056 84d0 Reusing MANIFEST /home/anti/.config/microsoft-edge-beta/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
 2024/06/05-01:37:57.056 84d0 Recovering log #3
 2024/06/05-01:37:57.057 84d0 Reusing old log /home/anti/.config/microsoft-edge-beta/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/000003.log 
+2024/06/05-02:30:17.709 84d0 Level-0 table #5: started
+2024/06/05-02:30:17.711 84d0 Level-0 table #5: 30474 bytes OK
+2024/06/05-02:30:17.713 84d0 Delete type=0 #3
+2024/06/05-02:30:17.713 84d0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

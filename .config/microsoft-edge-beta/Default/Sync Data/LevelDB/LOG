@@ -22,3 +22,21 @@
 2024/06/05-01:41:57.753 84d0 Level-0 table #31: started
 2024/06/05-01:41:57.756 84d0 Level-0 table #31: 109041 bytes OK
 2024/06/05-01:41:57.758 84d0 Delete type=0 #27
+2024/06/05-01:58:28.316 84d1 Level-0 table #33: started
+2024/06/05-01:58:28.319 84d1 Level-0 table #33: 104907 bytes OK
+2024/06/05-01:58:28.321 84d1 Delete type=0 #30
+2024/06/05-02:05:13.275 84d0 Level-0 table #35: started
+2024/06/05-02:05:13.278 84d0 Level-0 table #35: 103170 bytes OK
+2024/06/05-02:05:13.280 84d0 Delete type=0 #32
+2024/06/05-02:14:50.754 84d1 Level-0 table #37: started
+2024/06/05-02:14:50.757 84d1 Level-0 table #37: 97528 bytes OK
+2024/06/05-02:14:50.760 84d1 Delete type=0 #34
+2024/06/05-02:14:50.760 84d1 Compacting 4@0 + 1@1 files
+2024/06/05-02:14:50.762 84d1 Generated table #38@0: 261 keys, 20685 bytes
+2024/06/05-02:14:50.762 84d1 Compacted 4@0 + 1@1 files => 20685 bytes
+2024/06/05-02:14:50.764 84d1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/05-02:14:50.764 84d1 Delete type=2 #29
+2024/06/05-02:14:50.764 84d1 Delete type=2 #31
+2024/06/05-02:14:50.764 84d1 Delete type=2 #33
+2024/06/05-02:14:50.764 84d1 Delete type=2 #35
+2024/06/05-02:14:50.764 84d1 Delete type=2 #37

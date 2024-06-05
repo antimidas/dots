@@ -143,14 +143,14 @@ source = auto
 gradient = 1
 
 gradient_count = 8
-gradient_color_1 = '#010102'
-gradient_color_2 = '#1D2122'
-gradient_color_3 = '#262A2B'
-gradient_color_4 = '#363C3D'
-gradient_color_5 = '#9B9FA0'
-gradient_color_6 = '#3D4446'
-gradient_color_7 = '#485052'
-gradient_color_8 = '#9B9FA0'
+gradient_color_1 = '#0C0E0E'
+gradient_color_2 = '#4A515C'
+gradient_color_3 = '#6C634A'
+gradient_color_4 = '#A49554'
+gradient_color_5 = '#EBE2DC'
+gradient_color_6 = '#A8A4B7'
+gradient_color_7 = '#DBC770'
+gradient_color_8 = '#EBE2DC'
 
 [color]
 
