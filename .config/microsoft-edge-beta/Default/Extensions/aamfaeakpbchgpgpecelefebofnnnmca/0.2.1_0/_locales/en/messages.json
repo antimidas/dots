@@ -1,0 +1,24 @@
+{
+   "extensionDescription": {
+      "description": "Description of the extension.",
+      "message": "Send and manage downloads for aria2,qbittorrent."
+   },
+   "extensionName": {
+      "description": "Name of the extension.",
+      "message": "Dsender"
+   },
+   "notificationContent": {
+      "description": "Tells the user which link they clicked.",
+      "message": "You clicked $URL$.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "https://developer.mozilla.org"
+         }
+      }
+   },
+   "notificationTitle": {
+      "description": "Title of the click notification.",
+      "message": "Click notification"
+   }
+}

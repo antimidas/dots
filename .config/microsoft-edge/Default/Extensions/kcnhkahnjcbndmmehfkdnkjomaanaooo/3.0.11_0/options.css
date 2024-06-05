@@ -1,0 +1,48 @@
+body {
+  font-family:helvetica, arial, sans-serif;
+  font-size:80%;
+  margin:10px;
+}
+
+.gv-header {
+  padding-bottom:1.5em;
+  padding-top:1.5em;
+}
+
+.gv-header h1 {
+  background:url(images/logo_voice_2020q4_color_2x_web_48dp.png) no-repeat;
+  background-size: contain;
+  padding: 20px 0 20px 80px;
+}
+
+.gv-settings-content {
+  margin: 6px 6px 0 6px;
+  padding: 10px 10px 10px 10px;
+  color: #333;
+  border: 1px solid #dedede;
+  -webkit-border-radius: 5px 5px;
+}
+
+.gv-settings-table {
+  width: 100%;
+  font-size: 1em;
+}
+
+.gv-settings-table .left,
+.gv-settings-table .right {
+  vertical-align: top;
+  border-bottom: 0 dotted #aaa;
+}
+
+.gv-settings-table th {
+  text-align: right;
+  width: 1%;
+  white-space: nowrap;
+  padding: 12px 24px 12px 12px;
+}
+
+.gv-settings-table td {
+  width: 99%;
+  white-space: nowrap;
+  padding: 12px;
+}

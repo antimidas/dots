@@ -1,0 +1,59 @@
+a{
+	text-decoration: none !important;
+}
+
+b{
+	color: #6c2498;
+	cursor: default;
+}
+
+label{
+	display: block;
+	font-size: 13px;
+}
+
+input{
+	height: 25px;
+    font-size: 14px;   
+	outline:none;	
+	border: 1px solid #eae9e9;
+    border-radius: 3px;	
+}
+
+.noSelect {
+  -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;                                  
+}
+
+.aBtn{
+	cursor: pointer;
+	text-align: center;
+	border-radius: 3px;
+	background-color: #bfbfbf;	
+	transition: all linear 0.1s;
+}
+	.aBtn:hover{
+		filter: opacity(0.7);
+	}
+	.aBtn:active{
+		transform:scale(0.9);
+		filter: opacity(1);
+	}	
+	
+#popupBody{	
+	width: 150px;	
+}
+
+#intvMins{		
+	width: 80%;	
+}
+
+#svIntv-btn{
+	display: inline-block;
+	color: #ffffff;
+	width: 15%;
+}

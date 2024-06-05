@@ -1,0 +1,24 @@
+2024/06/05-00:30:16.146 84cf Reusing MANIFEST /home/anti/.config/microsoft-edge-beta/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/06/05-00:30:16.146 84cf Recovering log #20
+2024/06/05-00:30:16.147 84cf Reusing old log /home/anti/.config/microsoft-edge-beta/Default/Sync Data/LevelDB/000020.log 
+2024/06/05-00:30:52.687 84de Level-0 table #24: started
+2024/06/05-00:30:52.690 84de Level-0 table #24: 107286 bytes OK
+2024/06/05-00:30:52.692 84de Delete type=0 #20
+2024/06/05-00:41:44.844 84d0 Level-0 table #26: started
+2024/06/05-00:41:44.847 84d0 Level-0 table #26: 107377 bytes OK
+2024/06/05-00:41:44.851 84d0 Delete type=0 #23
+2024/06/05-00:53:02.335 84d0 Level-0 table #28: started
+2024/06/05-00:53:02.339 84d0 Level-0 table #28: 106093 bytes OK
+2024/06/05-00:53:02.341 84d0 Delete type=0 #25
+2024/06/05-00:53:02.341 84d0 Compacting 4@0 + 1@1 files
+2024/06/05-00:53:02.344 84d0 Generated table #29@0: 247 keys, 17722 bytes
+2024/06/05-00:53:02.344 84d0 Compacted 4@0 + 1@1 files => 17722 bytes
+2024/06/05-00:53:02.345 84d0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/05-00:53:02.345 84d0 Delete type=2 #19
+2024/06/05-00:53:02.346 84d0 Delete type=2 #21
+2024/06/05-00:53:02.346 84d0 Delete type=2 #24
+2024/06/05-00:53:02.346 84d0 Delete type=2 #26
+2024/06/05-00:53:02.346 84d0 Delete type=2 #28
+2024/06/05-01:41:57.753 84d0 Level-0 table #31: started
+2024/06/05-01:41:57.756 84d0 Level-0 table #31: 109041 bytes OK
+2024/06/05-01:41:57.758 84d0 Delete type=0 #27

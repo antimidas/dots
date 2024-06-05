@@ -1,0 +1,6 @@
+2024/06/04-09:25:54.548 bad Creating DB /home/anti/.config/microsoft-edge/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb since it was missing.
+2024/06/04-09:25:54.551 bad Reusing MANIFEST /home/anti/.config/microsoft-edge/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/04-09:28:09.073 bad Level-0 table #5: started
+2024/06/04-09:28:09.075 bad Level-0 table #5: 1964 bytes OK
+2024/06/04-09:28:09.076 bad Delete type=0 #3
+2024/06/04-09:28:09.077 bad Manual compaction at level-0 from (begin) .. (end); will stop at (end)

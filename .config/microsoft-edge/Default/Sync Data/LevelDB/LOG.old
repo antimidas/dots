@@ -1,0 +1,6 @@
+2024/06/04-13:47:41.035 43d3 Reusing MANIFEST /home/anti/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/06/04-13:47:41.035 43d3 Recovering log #60
+2024/06/04-13:47:41.036 43d3 Reusing old log /home/anti/.config/microsoft-edge/Default/Sync Data/LevelDB/000060.log 
+2024/06/04-13:47:41.308 43e6 Level-0 table #65: started
+2024/06/04-13:47:41.311 43e6 Level-0 table #65: 113130 bytes OK
+2024/06/04-13:47:41.313 43e6 Delete type=0 #60

@@ -1,0 +1,4 @@
+List of most common trackers (dnscrypt hosts blocklists):
+
+GitHub: https://github.com/notracking/hosts-blocklists/blob/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt (last update 06/27/2022)
+blacklist.txt: https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt

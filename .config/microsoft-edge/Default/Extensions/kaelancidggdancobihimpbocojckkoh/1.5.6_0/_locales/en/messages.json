@@ -1,0 +1,19 @@
+{
+   "extensionDescription": {
+      "description": "description of the app, displayed in store",
+      "message": "Adds movie trailers, library shuffling, and 21:9 zoom support to Plex"
+   },
+   "extensionName": {
+      "description": "title of the app, displayed in store",
+      "message": "Enhance-O-Tron for Plex"
+   },
+   "playTrailer": {
+      "message": "Play Trailer"
+   },
+   "shuffle": {
+      "message": "Shuffle"
+   },
+   "shuffleTooltip": {
+      "message": "Sort the library randomly"
+   }
+}

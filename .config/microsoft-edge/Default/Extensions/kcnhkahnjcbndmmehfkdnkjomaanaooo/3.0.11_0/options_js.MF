@@ -1,0 +1,5 @@
+javascript/closure/base.js
+third_party/javascript/tslib/tslib_closure.js
+voice/extensions/linkification/voice_storage.closure.js
+voice/extensions/linkification/voice_options_controller.closure.js
+voice/extensions/linkification/options.closure.js

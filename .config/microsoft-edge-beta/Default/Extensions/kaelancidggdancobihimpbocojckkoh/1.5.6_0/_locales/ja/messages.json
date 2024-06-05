@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "映画の予告編、ライブラリのシャッフル、21：9ズームのサポートをPlexに追加します"
+   },
+   "extensionName": {
+      "message": "PLEX 用 Enhance-O-Tron"
+   },
+   "playTrailer": {
+      "message": "予告編を見る"
+   },
+   "shuffle": {
+      "message": "シャッフル"
+   }
+}

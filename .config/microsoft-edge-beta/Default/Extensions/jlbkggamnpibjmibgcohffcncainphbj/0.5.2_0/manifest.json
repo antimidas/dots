@@ -1,0 +1,41 @@
+{
+   "action": {
+      "default_icon": {
+         "96": "ui/icons/logo96.png"
+      },
+      "default_title": "Add Torrent To"
+   },
+   "background": {
+      "service_worker": "background_worker.js",
+      "type": "module"
+   },
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "ruleset_1",
+         "path": "net_rules.json"
+      } ]
+   },
+   "description": "Instantly add torrents to a customizable set of directories in uTorrent or qBittorrent.",
+   "homepage_url": "https://gchristensen.github.io/torrent-add/",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "ui/icons/logo128.png",
+      "16": "ui/icons/logo16.png",
+      "48": "ui/icons/logo48.png",
+      "96": "ui/icons/logo96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlbwrgDs7aRjMnhuO4CTJ1dbjAM4EhUhIndZhRjwUc8LpTrgJlpbYXa5GWvJ+8Hq4dGCxbDF9vnYJSO7F53GtOc4druWIGPOwURVIFsxINHPl7Kp5yVxmu9g/97HkrV41az9H1ed8LIbEvkt2++XkmX9u2i6LhjVQxgAGlcN6PFzX3WLXdfcuQoN9PgI6+WD5An3MyGymsUCbweVpZbMnQSF6BnGibfgihQP9RH+kx6j3C4iDtxTHoACZSW+Kun5gpKlBZPQ3NpBNUDoonIMn1/RL2N+/dJY9sczIMTxxsH5u8bOsoNNQ+JNIWshWe+GneRmvVE8PvL+mv3mrm9C3TwIDAQAB",
+   "manifest_version": 3,
+   "name": "Add Torrent To",
+   "options_ui": {
+      "browser_style": true,
+      "page": "ui/options.html"
+   },
+   "permissions": [ "storage", "contextMenus", "notifications", "declarativeNetRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.5.2"
+}

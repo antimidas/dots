@@ -1,0 +1,23 @@
+{
+   "action": {
+      "default_icon": "/images/icon-32.png",
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "description": "Auto claims loot in your twitch inventory and channel points.",
+   "host_permissions": [ "https://www.twitch.tv/*" ],
+   "icons": {
+      "128": "/images/icon-128.png",
+      "16": "/images/icon-16.png",
+      "32": "/images/icon-32.png",
+      "48": "/images/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk2J4bYCrHcay9VDl44xG7fxTETq+uNCCGAX1CjI2gS0pj/wmiQRnsM12pI2nU946v+auMu7Qqmk0SvMYuyhWlOREaOyE0JPoe2if0eM2n+la84m/vCSnG9dW8E3YQ+ZuoYzmDqIH9wcQ5qAGHjnW3/GCAjSR09hNgLNCEl13wWcxAd/mMa7n6BAioWdL+fpLBdKWwHuQ6+wngpAJiy3FBszbhA2bpOfLFc9sZEYnpVE5yH1XQhKi3KFfYR6BFoYbdWKuRN1f850SklDzlXt+eaRZ0KlpPE6RSpLCtpC24+9u7xYsM7JH4Nkw31qtiuj+xVZti3TGMl48VwPfjDU8fQIDAQAB",
+   "manifest_version": 3,
+   "name": "Twitch Claimer",
+   "permissions": [ "tabs", "storage", "scripting" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "0.9"
+}

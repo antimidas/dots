@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Adiciona trailers de filmes, embaralhamento de biblioteca e suporte de zoom 21: 9 ao Plex"
+   },
+   "extensionName": {
+      "message": "Enhance-O-Tron para Plex"
+   },
+   "playTrailer": {
+      "message": "Assista ao trailer"
+   },
+   "shuffle": {
+      "message": "Embaralhar"
+   }
+}

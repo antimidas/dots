@@ -1,0 +1,165 @@
+body,html{
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+  width: 310px;
+  box-sizing: border-box;
+}
+
+header{
+    height: 35px;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    position: relative;
+    font-weight: 700;
+    width: 92%;
+    margin-top: 10px;
+    margin-left: 15px;
+  }
+  .isWork{
+    justify-content: space-between;
+    display: flex;
+  }
+  .share {
+    margin: 12px 0 5px;
+    padding-left: 13px;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    color: #909399;
+}
+.share_text {
+  line-height: 24px;
+  margin-right: 6px;
+}
+hr{
+    width: 95%;
+    height: 1px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    margin: 0px auto;
+}
+.link {
+  font-size: 1rem;
+}
+.share li span {
+  margin-right: 3px;
+  cursor: pointer;
+}
+.switch-button {
+  display: none; /*隐藏表单元素*/
+}
+.switch-button + label {
+  /*+选择器选择紧跟“+”左边选择器的第一个元素*/
+  display: inline-block;
+    position: relative;
+    transition: all 0.01s;
+    width: 35px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: #ccc;
+    cursor: pointer;
+}
+.switch-button:checked + label {
+  /*选中表单后的样式，:checked表示checkbox被选中后的状态*/
+  background-color: #2fa6ff;
+}
+.switch-button + label::before {
+  /*使用伪元素生成一个按钮*/
+  content: '';
+  display: block;
+  height: 18px;
+  width: 18px;
+  position: absolute;
+  border-radius: 9px;
+  left: 1px;
+  top: 1px;
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+  transition: all 0.3s;
+}
+.switch-button:checked + label::before {
+  /*checkbox选中时按钮的样式*/
+  left: 16px;
+  transition: all 0.2s linear;
+}
+p{
+    font-family: SourceHanSansSC;
+    font-weight: 400;
+    font-size: 12px;
+    color: rgb(144, 147, 153);
+    font-style: normal;
+    letter-spacing: 0px;
+    line-height: 17px;
+    text-decoration: none;
+    margin: 0%;
+    margin-left: 15px;
+}
+.container{
+    width: 280px;
+height: 150px;
+line-height: 20px;
+border-radius: 4px;
+background-color: rgba(255, 255, 255, 100);
+color: rgba(16, 16, 16, 100);
+font-size: 14px;
+text-align: left;
+font-family: Roboto;
+margin: 5px auto;
+padding: 7px 0;
+}
+.container p{
+    margin: 0;
+    height: 35px;
+    line-height: 35px;
+    font-size: 13px;
+    font-weight: 400;
+    padding-left: 11px;
+    color: #000;
+}
+.container p span{
+    font-weight: 700;
+}
+.greenDou{
+    width: 10px;
+    height: 10px;
+    border-width: 0px;
+    border-style: none;
+    border-color: unset;
+    font-size: 14px;
+    padding: 0px;
+    text-align: center;
+    line-height: 20px;
+    font-weight: normal;
+    font-style: normal;
+    background: rgb(34, 161, 0);
+    border-radius: 10px;
+    display: inline-block;
+}
+.container p span.bold{
+    font-weight: 600;
+}
+
+e{
+  width: 15px;
+  display: inline-block;
+}
+.container p span.light{
+    font-weight: 400;
+    color: rgba(144, 147, 153, 100);
+    font-size: 12px;
+    text-align: left;
+    font-family: SourceHanSansSC-regular;
+    margin-left: 10px;
+}
+.container a{
+    float: right;
+    margin-right: 10px;
+    margin-top: 16px;
+    color: rgba(144, 147, 153, 100);
+    font-size: 12px;
+    text-align: left;
+    font-family: SourceHanSansSC-regular;
+    text-decoration: none;
+}

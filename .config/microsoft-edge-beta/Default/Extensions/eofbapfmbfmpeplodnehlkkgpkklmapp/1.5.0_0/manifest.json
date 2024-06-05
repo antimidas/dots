@@ -1,0 +1,31 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "src/open.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/icon19.png",
+      "default_title": "Open current tab in Polypane (Alt + P)"
+   },
+   "commands": {
+      "open-in-polypane": {
+         "description": "Open current tab in Polypane",
+         "suggested_key": {
+            "default": "Alt+P"
+         }
+      }
+   },
+   "description": "Open the current page or links in Polypane, the developer tool for responsive web development and design.",
+   "homepage_url": "https://polypane.app",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmr+YV6frz6McEOXaFmuhWojBIZuL0By1sISHn1E4PubOYd9gXGTIjtWhR5/v+6YIM9UKEob+1lPDa1XDDd/i4wWXLpF2BLbKzGo52GmNlQJ5nDILHjTMEsic841/HwrU7iwkZGhWPGEimDyTHWSSMlNcbXgUM9PMmmRBideZG6LavzRLk7/CkB1VeIlvSYOCJ6s2HSnI8+tv/9nade3hc42BaIvhumESKGvdQF4aSmsehNQQmj8VeMl5BkQ754FLvMcgcxKj/FWr+vcv/wnDmsUgdNpfOllUC2amLAqjsvES6SHB9229RBa1llzX3OPxyRGDgks0ow+5wUSlO5Yg8QIDAQAB",
+   "manifest_version": 2,
+   "name": "Polypane helper",
+   "permissions": [ "activeTab", "tabs", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5.0"
+}

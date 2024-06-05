@@ -1,0 +1,21 @@
+2024/06/04-13:57:18.136 43d5 Reusing MANIFEST /home/anti/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/04-13:57:18.136 43d5 Recovering log #49
+2024/06/04-13:57:18.145 43d5 Reusing old log /home/anti/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000049.log 
+2024/06/04-13:57:49.976 43d4 Level-0 table #55: started
+2024/06/04-13:57:49.988 43d4 Level-0 table #55: 1372684 bytes OK
+2024/06/04-13:57:49.991 43d4 Delete type=0 #49
+2024/06/04-13:58:22.598 43d5 Compacting 1@1 + 1@2 files
+2024/06/04-13:58:22.603 43d5 Generated table #56@1: 343 keys, 42667 bytes
+2024/06/04-13:58:22.603 43d5 Compacted 1@1 + 1@2 files => 42667 bytes
+2024/06/04-13:58:22.605 43d5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/04-13:58:22.605 43d5 Delete type=2 #52
+2024/06/04-13:58:22.605 43d5 Delete type=2 #55
+2024/06/04-15:35:24.140 43d4 Level-0 table #58: started
+2024/06/04-15:35:24.150 43d4 Level-0 table #58: 1208216 bytes OK
+2024/06/04-15:35:24.152 43d4 Delete type=0 #54
+2024/06/04-15:35:33.894 43d4 Compacting 1@1 + 1@2 files
+2024/06/04-15:35:33.899 43d4 Generated table #59@1: 730 keys, 45036 bytes
+2024/06/04-15:35:33.899 43d4 Compacted 1@1 + 1@2 files => 45036 bytes
+2024/06/04-15:35:33.901 43d4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/04-15:35:33.901 43d4 Delete type=2 #56
+2024/06/04-15:35:33.901 43d4 Delete type=2 #58

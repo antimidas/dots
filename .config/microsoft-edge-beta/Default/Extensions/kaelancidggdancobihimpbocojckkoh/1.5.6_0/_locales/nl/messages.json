@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Voegt filmtrailers, bibliotheek shuffling en 21: 9 zoomondersteuning toe aan Plex"
+   },
+   "extensionName": {
+      "message": "Enhance-O-Tron voor Plex"
+   },
+   "playTrailer": {
+      "message": "Bekijk trailer"
+   },
+   "shuffle": {
+      "message": "Schudden"
+   }
+}

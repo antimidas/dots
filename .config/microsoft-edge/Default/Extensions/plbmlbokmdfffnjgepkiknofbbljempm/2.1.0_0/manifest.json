@@ -1,0 +1,26 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "images/128.png",
+         "16": "images/16.png",
+         "32": "images/32.png",
+         "48": "images/48.png"
+      }
+   },
+   "background": {
+      "service_worker": "js/background.js"
+   },
+   "description": "Format several JSON documents in one window, depends to your screen width, up to 6",
+   "icons": {
+      "128": "images/128.png",
+      "16": "images/16.png",
+      "32": "images/32.png",
+      "48": "images/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoNKIy/HlnDnfjHoszia4+NZretphXXZz9YnoUVXi72TXn+6yF88pQvfrMwCF4NQZMIk7vVMKC+HQGABDSJqz9tY8yyETKxZ8Tm1UxOdXKXCiLLtLdwBFSPeBrdv9l4ofnlGpd+SoNgzJdRv/gBvfaT5cwJbNcLoEY1KVhMpnjQJfHPy7mVh0BOkmuV1NCxDtYRxQONi9AbmzTv2FmArDfQ3fMIu0Syi4bfQB4WvlXR7gjTxp5HKOyIdRMOxT6OGoOLbiDIbiaddfp8hFLyzmkOGC8DGBv2mDRnr/KuQfnWO3uar37p+LUsI/72CIc1Gg9ze1PrEm8Qp5Kn00AQhu4wIDAQAB",
+   "manifest_version": 3,
+   "name": "JSONViewer",
+   "permissions": [ "storage" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "2.1.0"
+}

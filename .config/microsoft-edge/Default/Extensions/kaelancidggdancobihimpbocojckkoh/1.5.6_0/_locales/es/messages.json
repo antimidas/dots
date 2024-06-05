@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Agrega avances de películas, reproducción aleatoria de bibliotecas y compatibilidad con zoom 21: 9 a Plex"
+   },
+   "extensionName": {
+      "message": "Enhance-O-Tron para Plex"
+   },
+   "playTrailer": {
+      "message": "Ver trailer"
+   },
+   "shuffle": {
+      "message": "Shuffle"
+   }
+}

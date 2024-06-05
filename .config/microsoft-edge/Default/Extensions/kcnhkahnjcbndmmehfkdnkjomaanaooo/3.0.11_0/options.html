@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Google Voice extension options</title>
+    <link rel="stylesheet" href="options.css">
+  </head>
+
+  <body>
+    <div clas="gv-header"><h1>Google Voice extension options</h1></div>
+    <div class="gv-settings-content">
+      <p>This extension identifies E.164-format phone numbers in web pages
+        and lets you call them using Google Voice. To call a number, click
+        the optional Voice icon, or select and right-click a number and
+        then click Call.</p>
+      <table class="gv-settings-table">
+        <tr>
+          <th class="left">Default country/region</th>
+          <td class="right">
+            <select class="voiceDefaultRegion">
+              <option value="US">United States</option>
+              <option value="BE">Belgium</option>
+              <option value="CA">Canada</option>
+              <option value="DK">Denmark</option>
+              <option value="FR">France</option>
+              <option value="DE">Germany</option>
+              <option value="IE">Ireland</option>
+              <option value="IT">Italy</option>
+              <option value="NL">Netherlands</option>
+              <option value="PT">Portugal</option>
+              <option value="ES">Spain</option>
+              <option value="SE">Sweden</option>
+              <option value="CH">Switzerland</option>
+              <option value="GB">United Kingdom</option>
+            </select>
+            <p>
+              Lets the extension recognize other number formats used in the default country/region
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <th class="left">Voice icons</th>
+          <td class="right">
+            <input id="voiceEnableLinkification" class="voiceEnableLinkification" type="checkbox" value="1"/>
+            <label for="voiceEnableLinkification">Add clickable icons to numbers you can call using Voice</label>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
+  <script src="options_js.js"></script>
+</html>

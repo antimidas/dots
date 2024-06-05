@@ -1,0 +1,15 @@
+2024/06/04-21:42:07.223 ef99 Reusing MANIFEST /home/anti/.config/microsoft-edge/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/04-21:42:07.223 ef99 Recovering log #7
+2024/06/04-21:42:07.226 ef99 Reusing old log /home/anti/.config/microsoft-edge/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000007.log 
+2024/06/04-21:46:00.150 ef98 Level-0 table #13: started
+2024/06/04-21:46:00.162 ef98 Level-0 table #13: 2153003 bytes OK
+2024/06/04-21:46:00.164 ef98 Delete type=0 #7
+2024/06/04-21:46:00.165 ef98 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/04-21:46:00.165 ef98 Manual compaction at level-1 from (begin) .. (end); will stop at '\x04\x07\x1b\x01\x02\x01\x11\x00l\x00s\x00_\x00s\x00c\x00h\x00e\x00m\x00a\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 38252 : 1
+2024/06/04-21:46:00.165 ef98 Compacting 1@1 + 1@2 files
+2024/06/04-21:46:00.173 ef98 Generated table #14@1: 5584 keys, 962912 bytes
+2024/06/04-21:46:00.173 ef98 Compacted 1@1 + 1@2 files => 962912 bytes
+2024/06/04-21:46:00.175 ef98 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/04-21:46:00.175 ef98 Delete type=2 #10
+2024/06/04-21:46:00.175 ef98 Delete type=2 #13
+2024/06/04-21:46:00.176 ef98 Manual compaction at level-1 from '\x04\x07\x1b\x01\x02\x01\x11\x00l\x00s\x00_\x00s\x00c\x00h\x00e\x00m\x00a\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 38252 : 1 .. (end); will stop at (end)

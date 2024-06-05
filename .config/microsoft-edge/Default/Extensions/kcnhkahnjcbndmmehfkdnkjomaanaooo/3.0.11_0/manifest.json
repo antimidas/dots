@@ -1,0 +1,28 @@
+{
+   "action": {
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "background_js.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "contentscript.css" ],
+      "js": [ "contentscript_js.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "description": "Make calls with Google Voice with a click.",
+   "icons": {
+      "128": "/images/logo_voice_2020q4_color_2x_web_96dp.png",
+      "16": "/images/logo_voice_2020q4_color_2x_web_16dp.png",
+      "32": "/images/logo_voice_2020q4_color_2x_web_32dp.png",
+      "48": "/images/logo_voice_2020q4_color_2x_web_48dp.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC24DwTADOEhDU9r6R1gJB/QJ9JrPzQAZ3aMvXUXo4DeCkQHJeqbA/GZLFzGGPHedqlalp7Bk6lubj2/qKO0Nd+hMefSg71W99/Jp3EIPRxyZ/vhzlMuEog7r2WhNTmgG9+++zqYEvxCdUVXHTwisIRWdFLocuxgxcIV9tDAMK1DwIDAQAB",
+   "manifest_version": 3,
+   "name": "Google Voice (by Google)",
+   "options_page": "options.html",
+   "permissions": [ "storage", "activeTab", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.11"
+}

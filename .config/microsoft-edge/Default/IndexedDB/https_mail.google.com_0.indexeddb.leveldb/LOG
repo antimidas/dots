@@ -1,0 +1,6 @@
+2024/06/04-19:30:48.992 ef98 Reusing MANIFEST /home/anti/.config/microsoft-edge/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/04-19:30:48.993 ef98 Recovering log #3
+2024/06/04-19:30:48.993 ef98 Reusing old log /home/anti/.config/microsoft-edge/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2024/06/04-19:31:03.802 ef99 Level-0 table #5: started
+2024/06/04-19:31:03.823 ef99 Level-0 table #5: 2734332 bytes OK
+2024/06/04-19:31:03.826 ef99 Delete type=0 #3

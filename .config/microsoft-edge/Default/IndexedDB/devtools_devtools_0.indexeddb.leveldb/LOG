@@ -1,0 +1,8 @@
+2024/06/04-08:16:50.104 868 Reusing MANIFEST /home/anti/.config/microsoft-edge/Default/IndexedDB/devtools_devtools_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/04-08:16:50.104 868 Recovering log #7
+2024/06/04-08:16:50.110 868 Reusing old log /home/anti/.config/microsoft-edge/Default/IndexedDB/devtools_devtools_0.indexeddb.leveldb/000007.log 
+2024/06/04-08:16:50.779 869 Level-0 table #12: started
+2024/06/04-08:16:50.791 869 Level-0 table #12: 1848007 bytes OK
+2024/06/04-08:16:50.794 869 Delete type=0 #7
+2024/06/04-08:16:55.548 869 Compacting 1@1 + 1@2 files
+2024/06/04-08:16:55.548 869 compacted to: files[ 0 1 1 0 0 0 0 ]

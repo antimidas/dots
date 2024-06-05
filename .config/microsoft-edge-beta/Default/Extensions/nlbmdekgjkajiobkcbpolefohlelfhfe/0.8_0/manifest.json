@@ -1,0 +1,34 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "images/128x128.png",
+         "16": "images/16x16.png",
+         "32": "images/32x32.png",
+         "48": "images/48x48.png"
+      },
+      "default_popup": "rewards_popup.html"
+   },
+   "background": {
+      "service_worker": "rootServiceWorker.js"
+   },
+   "default_locale": "en",
+   "description": "__MSG_RewardsDesc__",
+   "host_permissions": [ "http://*/*", "https://*/*" ],
+   "icons": {
+      "128": "images/128x128.png",
+      "16": "images/16x16.png",
+      "32": "images/32x32.png",
+      "48": "images/48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAujdM8pcr+Xo315SzNYM9s0wpmMXITNkRCs6wnWtQmGgLiEb7T9OUEOhO4fTXAbltvy3oshvMLJohcfyKqXZr1/ClS5EQ7TITi2RdcoFbMJS4q+nQBF77pQMUTa6pgS7ynFTrVQMk+4QzB1JJvApU4ubR2Pq2RhCDtGILDmgW71yzn1Z/fMtD+gvRwSx2c3FhKcC2MFRB8z0mKDMlG3txerFwtgQ7E3QP7LXFWmPLHgtesM7sX2KjBaXFdRbM9DRRtAAkhopa2QiZhifQvWUZWr1HRdfxTqMM3qf6MglcC8oFRj53FXA5OfjBCmxq/tNehEQO6Om3jIm1Uajs6TQ0nwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_RewardsTitle__",
+   "permissions": [ "cookies", "tabs", "storage", "management", "notifications", "alarms" ],
+   "short_name": "__MSG_RewardsShortName__",
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "0.8",
+   "web_accessible_resources": [ {
+      "matches": [  ],
+      "resources": [ "*.png" ]
+   } ]
+}

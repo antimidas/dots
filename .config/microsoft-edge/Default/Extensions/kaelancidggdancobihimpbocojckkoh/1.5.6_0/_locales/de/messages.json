@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Fügt Plex Filmtrailer, Bibliotheksmischungen und 21: 9-Zoomunterstützung hinzu"
+   },
+   "extensionName": {
+      "message": "Enhance-O-Tron für Plex"
+   },
+   "playTrailer": {
+      "message": "Trailer abspielen"
+   },
+   "shuffle": {
+      "message": "Barajar"
+   }
+}

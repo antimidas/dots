@@ -1,0 +1,21 @@
+2024/06/04-19:30:43.089 4 Reusing MANIFEST /home/anti/.config/microsoft-edge/Default/Session Storage/MANIFEST-000001
+2024/06/04-19:30:43.090 4 Recovering log #55
+2024/06/04-19:30:43.091 4 Reusing old log /home/anti/.config/microsoft-edge/Default/Session Storage/000055.log 
+2024/06/04-21:16:50.420 6 Level-0 table #59: started
+2024/06/04-21:16:50.422 6 Level-0 table #59: 32636 bytes OK
+2024/06/04-21:16:50.425 6 Delete type=0 #55
+2024/06/04-22:06:11.630 6 Level-0 table #61: started
+2024/06/04-22:06:11.632 6 Level-0 table #61: 31411 bytes OK
+2024/06/04-22:06:11.634 6 Delete type=0 #58
+2024/06/04-22:15:05.240 6 Level-0 table #63: started
+2024/06/04-22:15:05.243 6 Level-0 table #63: 68354 bytes OK
+2024/06/04-22:15:05.245 6 Delete type=0 #60
+2024/06/04-22:15:05.245 6 Compacting 4@0 + 1@1 files
+2024/06/04-22:15:05.251 6 Generated table #64@0: 1465 keys, 129334 bytes
+2024/06/04-22:15:05.251 6 Compacted 4@0 + 1@1 files => 129334 bytes
+2024/06/04-22:15:05.253 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/04-22:15:05.253 6 Delete type=2 #53
+2024/06/04-22:15:05.253 6 Delete type=2 #56
+2024/06/04-22:15:05.253 6 Delete type=2 #59
+2024/06/04-22:15:05.253 6 Delete type=2 #61
+2024/06/04-22:15:05.253 6 Delete type=2 #63

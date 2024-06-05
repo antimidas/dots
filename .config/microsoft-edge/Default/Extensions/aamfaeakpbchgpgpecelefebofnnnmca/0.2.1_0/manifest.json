@@ -1,0 +1,31 @@
+{
+   "background": {
+      "page": "background/background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "assets/icon16.png",
+         "48": "assets/icon48.png",
+         "64": "assets/icon64.png"
+      },
+      "default_popup": "popup/popup.html",
+      "default_title": "__MSG_extensionName__"
+   },
+   "content_scripts": [  ],
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "icons": {
+      "128": "assets/icon128.png",
+      "16": "assets/icon16.png",
+      "48": "assets/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqKg+cNW+tsrFfX7nvkx4JCCky4cvlbfMIUX779yW0a/B25Duj8M7MyDQ4WH1R7/inVXspoGZ/96ldt98yUWOp7iP1av+HJF6TD9sjfG1ljMyGJrmhKxzFSQ0ustqRCPpkIPgF23BOStqbQ7Km5DgGAHSlgujQhZ1TdsmQvFHhh7xZZBE3r+56VRpOncYJNNa2PoC6m6dtrz8x78pi1ORNzqyvhaqO8qVs52dy6zPxLLKp5bw7NGGH76BcFXe2KtMCg9B02lIJbx9Z10u2lFZkzIrSgMJ96hqr1udA1auG7dNJUkSt2wPyIvA4xuLWm1GotNnEeOouPZAY61vRiG72QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extensionName__",
+   "options_ui": {
+      "page": "pages/setting/index.html"
+   },
+   "permissions": [ "\u003Call_urls>", "downloads", "storage", "tabs", "notifications", "webRequest", "webRequestBlocking", "contextMenus" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "0.2.1"
+}

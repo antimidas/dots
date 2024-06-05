@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <style>
+       body {
+          width: 100%;
+          box-sizing: border-box;
+          margin: 0;
+          padding: 5px 15px;
+          font-family: Sans-Serif;
+          font-size: 14px;
+        }
+        label,input {
+          display: block;
+        }
+        label {
+          margin: 5px 0px 2px 0px;
+        }
+        input {
+          margin-bottom: 5px;
+        }
+        span {
+          display: inline-block;
+        }
+        #port {
+          width: 5em;
+        }
+        #footer {
+          display: flex;
+          margin: 5px 0;
+        }
+        #footer > * {
+          margin-right: 10px;
+        }
+        .expand {
+          flex: 1;
+        }
+        input,select {
+          font-size: 14px;
+          width: min-content;
+        }
+        widget-checkbox {
+          margin: 10px 0px;
+        }
+    </style>
+  </head>
+
+<body>
+    <template class="aria2">
+      <label for="token">Token:</label><input id="token" type="password">
+    </template>
+    <template class="qbittorrent">
+      <label for="username">Username:</label><input id="username" type="text" required>
+      <label for="password">Password:</label><input id="password" type="password">
+    </template>
+
+    <widget-messagebox></widget-messagebox>
+    <div id="content">
+      <div id="common">
+        <span><label for="name">Name:</label><input id="name" type="text" required></span>
+        <span><label for="selectType">Type:</label><select id="selectType"></select></span>
+        <div></div>
+        <span><label for="host">Host:</label><input id="host" type="text" required></span>
+        <span><label for="port">Port:</label><input id="port" type="number"></span>
+        <label for="path">Path:</label><input id="path" type="text">
+        <widget-checkbox id="tls">SSL/TLS</widget-checkbox>
+      </div>
+      <div id="extra">
+      </div>
+      <div id="footer">
+        <div class="expand"></div>
+        <widget-button disabled size="large" id="submit">Save</widget-button>
+      </div>
+    </div>
+
+    <script type="module" src="/lib/third/browser-polyfill.min.js"></script>
+    <script type="module" src="index.js"></script> 
+</body>
+
+</html>

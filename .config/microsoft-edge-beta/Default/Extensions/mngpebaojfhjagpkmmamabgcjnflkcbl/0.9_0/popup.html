@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">				
+		<link href='bootstrap.min.css' rel='stylesheet' type='text/css' />		
+		<link href='style.css' rel='stylesheet' type='text/css' />	
+	</head>
+	<body id="popupBody" class="p-2">
+		<img src="/images/icon-32.png" alt="logo" class="mb-2"/> <b>Claimer</b><br/>		
+		<div class="row m-0">
+			<button id="ps-btn" type="button" class="btn btn-sm mb-1 mr-1 col"></button>
+			<button id="tw-btn" type="button" class="btn btn-info btn-sm mb-1 col">Twitch</button>
+		</div>
+	
+		<div style="display:none;">
+			<label for="intvMins" class="mb-0 noSelect">Interval (mins)</label>
+			<input id="intvMins" class="mb-2" type="number" min="1" max="60" placeholder="Minutes"/>
+			<div id="svIntv-btn" class="aBtn noSelect">&#x2713;</div>		
+		</div>						
+		
+		<button id="dn-btn" type="button" class="btn btn-light btn-sm col-12">Donate &#x2764;</button>		
+	</body>
+</html>
+<script src="popup.js"></script>
