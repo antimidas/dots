@@ -1,0 +1,36 @@
+2024/06/05-19:21:15.599 c9f Creating DB /home/anti/.config/microsoft-edge-beta/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb since it was missing.
+2024/06/05-19:21:15.602 c9f Reusing MANIFEST /home/anti/.config/microsoft-edge-beta/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/05-19:25:16.016 ca0 Level-0 table #5: started
+2024/06/05-19:25:16.032 ca0 Level-0 table #5: 2284711 bytes OK
+2024/06/05-19:25:16.035 ca0 Delete type=0 #3
+2024/06/05-19:27:16.235 ca0 Level-0 table #7: started
+2024/06/05-19:27:16.252 ca0 Level-0 table #7: 3150810 bytes OK
+2024/06/05-19:27:16.254 ca0 Delete type=0 #4
+2024/06/05-19:29:49.474 c9f Compacting 1@1 + 1@2 files
+2024/06/05-19:29:49.489 c9f Generated table #8@1: 5659 keys, 1122149 bytes
+2024/06/05-19:29:49.489 c9f Compacted 1@1 + 1@2 files => 1122149 bytes
+2024/06/05-19:29:49.492 c9f compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/05-19:29:49.493 c9f Delete type=2 #5
+2024/06/05-19:29:49.493 c9f Delete type=2 #7
+2024/06/05-19:58:14.192 c9f Level-0 table #10: started
+2024/06/05-19:58:14.211 c9f Level-0 table #10: 2435991 bytes OK
+2024/06/05-19:58:14.213 c9f Delete type=0 #6
+2024/06/05-19:58:38.925 ca0 Level-0 table #12: started
+2024/06/05-19:58:38.928 ca0 Level-0 table #12: 326673 bytes OK
+2024/06/05-19:58:38.930 ca0 Delete type=0 #9
+2024/06/05-19:58:38.930 ca0 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x07H\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 42959 : 1
+2024/06/05-19:58:38.930 ca0 Compacting 1@0 + 1@1 files
+2024/06/05-19:58:38.936 ca0 Generated table #13@0: 3435 keys, 401521 bytes
+2024/06/05-19:58:38.936 ca0 Compacted 1@0 + 1@1 files => 401521 bytes
+2024/06/05-19:58:38.938 ca0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/05-19:58:38.938 ca0 Delete type=2 #10
+2024/06/05-19:58:38.939 ca0 Delete type=2 #12
+2024/06/05-19:58:38.939 ca0 Manual compaction at level-0 from '\x00\x07H\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 42959 : 1 .. (end); will stop at (end)
+2024/06/05-19:58:38.939 ca0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07p\x02\x03\x00\x00\x00\x00\x00\x00\x00\x00' @ 38077 : 1
+2024/06/05-19:58:38.939 ca0 Compacting 1@1 + 1@2 files
+2024/06/05-19:58:38.947 ca0 Generated table #14@1: 5733 keys, 1259817 bytes
+2024/06/05-19:58:38.947 ca0 Compacted 1@1 + 1@2 files => 1259817 bytes
+2024/06/05-19:58:38.950 ca0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/05-19:58:38.950 ca0 Delete type=2 #8
+2024/06/05-19:58:38.950 ca0 Delete type=2 #13
+2024/06/05-19:58:38.950 ca0 Manual compaction at level-1 from '\x00\x07p\x02\x03\x00\x00\x00\x00\x00\x00\x00\x00' @ 38077 : 1 .. (end); will stop at (end)

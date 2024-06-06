@@ -1,3 +1,7 @@
-2024/06/05-00:39:38.167 84cf Reusing MANIFEST /home/anti/.config/microsoft-edge-beta/Default/IndexedDB/https_ntp.msn.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/05-00:39:38.167 84cf Recovering log #3
-2024/06/05-00:39:38.167 84cf Reusing old log /home/anti/.config/microsoft-edge-beta/Default/IndexedDB/https_ntp.msn.com_0.indexeddb.leveldb/000003.log 
+2024/06/05-20:53:47.972 8f45 Reusing MANIFEST /home/anti/.config/microsoft-edge-beta/Default/IndexedDB/https_ntp.msn.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/05-20:53:47.972 8f45 Recovering log #3
+2024/06/05-20:53:47.973 8f45 Reusing old log /home/anti/.config/microsoft-edge-beta/Default/IndexedDB/https_ntp.msn.com_0.indexeddb.leveldb/000003.log 
+2024/06/05-20:54:25.481 8f46 Level-0 table #5: started
+2024/06/05-20:54:25.483 8f46 Level-0 table #5: 94055 bytes OK
+2024/06/05-20:54:25.485 8f46 Delete type=0 #3
+2024/06/05-20:54:25.485 8f46 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

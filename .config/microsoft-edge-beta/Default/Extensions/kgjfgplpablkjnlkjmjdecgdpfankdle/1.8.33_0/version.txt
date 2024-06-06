@@ -1,0 +1,6 @@
+Release Version: 1.8.33
+Build Version: 1.8.33.232
+Build Time: 2024-05-23 07:57:04Z
+Branch: release
+Commit SHA:
+web/extension: c22b28b06f8ae5cf9cca980c554032d84cc08342

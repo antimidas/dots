@@ -1,6 +1,6 @@
-2024/06/05-00:30:18.581 84d0 Reusing MANIFEST /home/anti/.config/microsoft-edge-beta/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
-2024/06/05-00:30:18.581 84d0 Recovering log #23
-2024/06/05-00:30:18.581 84d0 Reusing old log /home/anti/.config/microsoft-edge-beta/Default/EdgeCoupons/coupons_data.db/000023.log 
-2024/06/05-00:30:18.613 84e0 Level-0 table #27: started
-2024/06/05-00:30:18.618 84e0 Level-0 table #27: 855132 bytes OK
-2024/06/05-00:30:18.623 84e0 Delete type=0 #23
+2024/06/05-22:13:31.931 3f84 Reusing MANIFEST /home/anti/.config/microsoft-edge-beta/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2024/06/05-22:13:31.931 3f84 Recovering log #49
+2024/06/05-22:13:31.931 3f84 Reusing old log /home/anti/.config/microsoft-edge-beta/Default/EdgeCoupons/coupons_data.db/000049.log 
+2024/06/05-22:13:31.958 3f74 Level-0 table #53: started
+2024/06/05-22:13:31.962 3f74 Level-0 table #53: 855216 bytes OK
+2024/06/05-22:13:31.967 3f74 Delete type=0 #49

@@ -10,12 +10,12 @@ plugins = [
 
 [scratchpads.term]
 animation = "fromBottom"
-command = "kitty --class kitty-dropterm "
+command = "kitty --class kitty-dropterm"
 class = "kitty-dropterm"
 size = "50% 50%"
 
 [scratchpads.ranger]
 animation = "fromBottom"
-command = "/usr/bin/xt --class kitty-dropterm"
-class = "kitty-dropterm"
-size = "75% 50%"
+command = "alacritty -e ranger"
+class = "alacritty-dropdown"
+size = "50% 50%"

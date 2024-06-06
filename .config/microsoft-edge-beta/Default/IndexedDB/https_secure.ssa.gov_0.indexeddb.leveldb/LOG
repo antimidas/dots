@@ -1,0 +1,7 @@
+2024/06/05-21:03:08.225 8f46 Reusing MANIFEST /home/anti/.config/microsoft-edge-beta/Default/IndexedDB/https_secure.ssa.gov_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/05-21:03:08.225 8f46 Recovering log #4
+2024/06/05-21:03:08.225 8f46 Reusing old log /home/anti/.config/microsoft-edge-beta/Default/IndexedDB/https_secure.ssa.gov_0.indexeddb.leveldb/000004.log 
+2024/06/05-21:03:08.230 8f45 Level-0 table #8: started
+2024/06/05-21:03:08.231 8f45 Level-0 table #8: 504 bytes OK
+2024/06/05-21:03:08.232 8f45 Delete type=0 #4
+2024/06/05-21:03:08.233 8f45 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
