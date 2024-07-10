@@ -1,0 +1,7 @@
+{
+  "term": {
+    "command": "kitty --class kitty-dropterm",
+    "animation": "fromBottom",
+    "margin": 50,
+    "unfocus": "hide"
+  }

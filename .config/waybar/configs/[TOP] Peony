@@ -1,0 +1,46 @@
+//* ----------- 💫 https://github.com/JaKooLit 💫 -------- */
+//* ............................................*/
+//* ................PEONY.......................*/
+//* ............................................*/
+//* --- 👍 designed by https://github.com/Krautt  👍 --- */
+
+{
+ 
+"include": "~/.config/waybar/modules",
+"layer": "top",
+//"mode": "dock",
+"exclusive": true,
+"passthrough": false,
+"position": "top",
+"spacing": 4,
+"fixed-center": true,
+"ipc": true,
+"margin-top": 2,
+//"margin-bottom": 5,
+"width": 1444,
+	
+"modules-left": [
+	"hyprland/workspaces#roman"
+	],
+  
+"modules-center": ["clock#2","custom/weather"], 
+	
+"modules-right": [
+	"custom/separator#blank",
+	"custom/swaync",
+	"custom/separator#blank",	
+	"network",
+        "custom/seperator#blank",
+	"pulseaudio",
+	"custom/seperator#blank",
+	 "tray"],
+}	
+    "custom/weather": {
+        "format": "{}",
+        "format-alt": "{alt}: {}",
+        "format-alt-click": "click-right",
+        "interval": 1800,
+        "return-type": "json",
+        "exec": "~/.config/waybar/scripts/weather.sh",
+        "exec-if": "ping wttr.in -c1"
+    },

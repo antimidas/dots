@@ -1,0 +1,33 @@
+[pyprland]
+
+plugins = [
+  "scratchpads",
+  "magnify",
+  "expose",
+  "toggle_special"
+]
+
+[scratchpads.ranger]
+animation = "fromTop"
+command = "terminology -e ranger"
+class = "Alacritty"
+size = "50% 50%"
+move = "25% 10%"
+lazy = true
+excludes = "*"
+
+[scratchpads.drop]
+animation = "fromBottom"
+command = "trm -"
+class = "ranger"
+size = "50% 50%"
+lazy = true
+excludes = "*"
+
+[scratchpads.term]
+animation = "fromTop"
+command = "alacritty"
+class = "Alacritty"
+lazy = true
+size = "50% 40%"
+excludes = "*"

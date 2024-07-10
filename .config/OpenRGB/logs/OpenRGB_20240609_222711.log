@@ -1,0 +1,100 @@
+    OpenRGB v0.9
+    Commit:  from 
+    Launched: 20240609_222711
+====================================================================================================
+
+0     |Info:    Found file: 1.orp attempting to validate header
+0     |Info:    Valid v4 profile found for 1
+1001  |Info:    ------------------------------------------------------
+1001  |Info:    |               Start device detection               |
+1001  |Info:    ------------------------------------------------------
+1001  |Info:    Initializing HID interfaces: Success
+1011  |Info:    ------------------------------------------------------
+1011  |Info:    |             Detecting I2C interfaces               |
+1011  |Info:    ------------------------------------------------------
+1011  |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:2503 Subsystem: 1043:87F5
+1011  |Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:2503 Subsystem: 1043:87F5
+1011  |Info:    Registering I2C interface: /dev/i2c-8 Device 1022:790B Subsystem: 1462:7C56
+1011  |Info:    Registering I2C interface: /dev/i2c-6 Device 1022:790B Subsystem: 1462:7C56
+1011  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2503 Subsystem: 1043:87F5
+1011  |Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:2503 Subsystem: 1043:87F5
+1011  |Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:2503 Subsystem: 1043:87F5
+1011  |Info:    Registering I2C interface: /dev/i2c-7 Device 1022:790B Subsystem: 1462:7C56
+1011  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2503 Subsystem: 1043:87F5
+1011  |Info:    ------------------------------------------------------
+1011  |Info:    |               Detecting I2C devices                |
+1011  |Info:    ------------------------------------------------------
+2007  |Info:    ------------------------------------------------------
+2007  |Info:    |               Detecting I2C PCI devices            |
+2007  |Info:    ------------------------------------------------------
+2342  |Info:    [ASUS TUF 3060 O12G GAMING] Registering RGB controller
+2690  |Info:    ------------------------------------------------------
+2690  |Info:    |               Detecting HID devices                |
+2690  |Info:    ------------------------------------------------------
+2691  |Info:    [Keychron Gaming Keyboard 1] Registering RGB controller
+2765  |Info:    [MSI MPG B550 GAMING PLUS (MS-7C56)] Registering RGB controller
+3204  |Info:    [G502 HERO Gaming Mouse] Registering RGB controller
+3204  |Info:    ------------------------------------------------------
+3204  |Info:    |            Detecting libusb HID devices            |
+3204  |Info:    ------------------------------------------------------
+3336  |Info:    ------------------------------------------------------
+3336  |Info:    |              Detecting other devices               |
+3336  |Info:    ------------------------------------------------------
+3349  |Info:    ------------------------------------------------------
+3349  |Info:    |                Detection completed                 |
+3349  |Info:    ------------------------------------------------------
+47675 |Info:    Profile loading: Succeeded for ASUS TUF 3060 O12G GAMING @ I2C: /dev/i2c-0, address 0x67
+47675 |Info:    Profile loading: Succeeded for Keychron Gaming Keyboard 1 @ HID: /dev/hidraw1
+47675 |Info:    Profile loading: Succeeded for MSI MPG B550 GAMING PLUS (MS-7C56) @ HID: /dev/hidraw7
+47675 |Info:    Profile loading: Succeeded for G502 HERO Gaming Mouse @ HID: /dev/hidraw10 (Receiver) 
+Wireless Index: 255
+48497 |Info:    Profile loading: Succeeded for ASUS TUF 3060 O12G GAMING @ I2C: /dev/i2c-0, address 0x67
+48497 |Info:    Profile loading: Succeeded for Keychron Gaming Keyboard 1 @ HID: /dev/hidraw1
+48497 |Info:    Profile loading: Succeeded for MSI MPG B550 GAMING PLUS (MS-7C56) @ HID: /dev/hidraw7
+48497 |Info:    Profile loading: Succeeded for G502 HERO Gaming Mouse @ HID: /dev/hidraw10 (Receiver) 
+Wireless Index: 255
+48745 |Info:    Profile loading: Succeeded for ASUS TUF 3060 O12G GAMING @ I2C: /dev/i2c-0, address 0x67
+48745 |Info:    Profile loading: Succeeded for Keychron Gaming Keyboard 1 @ HID: /dev/hidraw1
+48745 |Info:    Profile loading: Succeeded for MSI MPG B550 GAMING PLUS (MS-7C56) @ HID: /dev/hidraw7
+48745 |Info:    Profile loading: Succeeded for G502 HERO Gaming Mouse @ HID: /dev/hidraw10 (Receiver) 
+Wireless Index: 255
+49689 |Info:    Found file: 1.orp attempting to validate header
+49689 |Info:    Valid v4 profile found for 1
+64052 |Info:    ------------------------------------------------------
+64052 |Info:    |               Start device detection               |
+64052 |Info:    ------------------------------------------------------
+64052 |Info:    Initializing HID interfaces: Success
+64060 |Info:    ------------------------------------------------------
+64060 |Info:    |             Detecting I2C interfaces               |
+64060 |Info:    ------------------------------------------------------
+64061 |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:2503 Subsystem: 1043:87F5
+64061 |Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:2503 Subsystem: 1043:87F5
+64061 |Info:    Registering I2C interface: /dev/i2c-8 Device 1022:790B Subsystem: 1462:7C56
+64061 |Info:    Registering I2C interface: /dev/i2c-6 Device 1022:790B Subsystem: 1462:7C56
+64061 |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2503 Subsystem: 1043:87F5
+64061 |Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:2503 Subsystem: 1043:87F5
+64061 |Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:2503 Subsystem: 1043:87F5
+64061 |Info:    Registering I2C interface: /dev/i2c-7 Device 1022:790B Subsystem: 1462:7C56
+64061 |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2503 Subsystem: 1043:87F5
+64061 |Info:    ------------------------------------------------------
+64061 |Info:    |               Detecting I2C devices                |
+64061 |Info:    ------------------------------------------------------
+65059 |Info:    ------------------------------------------------------
+65059 |Info:    |               Detecting I2C PCI devices            |
+65059 |Info:    ------------------------------------------------------
+65390 |Info:    [ASUS TUF 3060 O12G GAMING] Registering RGB controller
+65739 |Info:    ------------------------------------------------------
+65739 |Info:    |               Detecting HID devices                |
+65739 |Info:    ------------------------------------------------------
+65740 |Info:    [Keychron Gaming Keyboard 1] Registering RGB controller
+65817 |Info:    [MSI MPG B550 GAMING PLUS (MS-7C56)] Registering RGB controller
+66255 |Info:    [G502 HERO Gaming Mouse] Registering RGB controller
+66255 |Info:    ------------------------------------------------------
+66255 |Info:    |            Detecting libusb HID devices            |
+66255 |Info:    ------------------------------------------------------
+66376 |Info:    ------------------------------------------------------
+66376 |Info:    |              Detecting other devices               |
+66376 |Info:    ------------------------------------------------------
+66376 |Info:    ------------------------------------------------------
+66376 |Info:    |                Detection completed                 |
+66376 |Info:    ------------------------------------------------------
