@@ -1,0 +1,25 @@
+[33m[NOTE](B[m kb_layout us configured in settings.  
+You chose ≥ 1440p resolution for better Rofi appearance.
+Rainbow borders is now disabled.
+[33m[NOTE](B[m Wallpapers downloaded successfully.
+[33m[NOTE](B[m Wallpapers copied successfully.
+[[1m[34mI[39m[0m] [1m[35mimage[39m[0m: .wallpaper_modified
+[[1m[34mI[39m[0m] [1m[35mimage parser[39m[0m: Using [94m[1mKmeans[0m[39m backend parser
+[[1m[34mI[39m[0m] [1m[35mthreshold[39m[0m: Using a threshold of 10 in between colors.
+[[1m[34mI[39m[0m] [1m[35mcolorspace[39m[0m: Using [35m[1mLch[0m[39m colorspace variation
+[[1m[34mI[39m[0m] [1m[35mscheme palette[39m[0m: Using [94m[1mDark16[0m[39m palette
+▐⠂       ▌     0.000 s	Generating color scheme..▐⠈       ▌     0.080 s	Generating color scheme..▐ ⠂      ▌     0.160 s	Generating color scheme..▐ ⠠      ▌     0.240 s	Generating color scheme..▐  ⡀     ▌     0.320 s	Generating color scheme..▐  ⠠     ▌     0.397 s	Generating color scheme..[2K[[1m[34mI[39m[0m] Not enough colors in the image, artificially generating new colors...
+[[1m[34mI[39m[0m] [1m[35mfallback generation method[39m[0m: Using [34mInterpolate[39m to fill the palette
+[[1m[34mI[39m[0m] Color scheme palette generated!
+
+[48;2;5;5;7m    [49m[48;2;130;70;22m    [49m[48;2;127;72;30m    [49m[48;2;106;92;86m    [49m[48;2;93;104;121m    [49m[48;2;88;109;135m    [49m[48;2;146;164;180m    [49m[48;2;216;228;239m    [49m
+[48;2;151;160;167m    [49m[48;2;173;93;30m    [49m[48;2;169;96;39m    [49m[48;2;141;122;114m    [49m[48;2;124;139;161m    [49m[48;2;117;145;180m    [49m[48;2;194;218;240m    [49m[48;2;216;228;239m    [49m
+
+[[1m[34mI[39m[0m] [1m[35mtemplates[39m[0m: Writing templates..
+  * Templated [1mcava[0m to '[3m~/.config/cava/config[0m'
+  * Templated [1mwaybar[0m to '[3m~/.config/waybar/wallust/colors-waybar.css[0m'
+  * Templated [1mrofi[0m to '[3m~/.config/rofi/wallust/colors-rofi.rasi[0m'
+  * Templated [1mhypr[0m to '[3m~/.config/hypr/wallust/wallust-hyprland.conf[0m'
+[[1m[34mI[39m[0m] [1m[35mcache[39m[0m: Saving scheme to cache.
+
+[5m[1m[38;2;216;228;239mE [39m[0m[0m[5m[1m[38;2;194;218;240mN [39m[0m[0m[5m[1m[38;2;117;145;180mJ [39m[0m[0m[5m[1m[38;2;124;139;161mO [39m[0m[0m[5m[1m[38;2;141;122;114mY [39m[0m[0m[9m  [0m[5m[1m[38;2;169;96;39mT [39m[0m[0m[5m[1m[38;2;173;93;30mH [39m[0m[0m[5m[1m[38;2;151;160;167mE [39m[0m[0m[9m  [0m[5m[1m[38;2;216;228;239mP [39m[0m[0m[5m[1m[38;2;146;164;180mA [39m[0m[0m[5m[1m[38;2;88;109;135mL [39m[0m[0m[5m[1m[38;2;93;104;121mE [39m[0m[0m[5m[1m[38;2;106;92;86mT [39m[0m[0m[5m[1m[38;2;127;72;30mT [39m[0m[0m[5m[1m[38;2;130;70;22mE [39m[0m[0m[5m[1m[38;2;234;242;250m! [39m[0m[0m
